@@ -76,3 +76,5 @@ while True:
     elif opt == "4":
         print("Gracias por utilizar el programa")
         break
+    else:
+        print("Opción no válida")
