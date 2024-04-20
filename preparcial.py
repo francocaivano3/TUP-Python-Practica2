@@ -26,7 +26,6 @@ def registrarEmpleados():
         empleado = {"nombre": nombre, "legajo": legajo, "antiguedad": antiguedad, "cursos": []}
         listaEmpleados.append(empleado)
 
-
 def agregarCurso():
     legajoEmpleado = input("Ingrese el legajo del empleado: ")
     legajoEncontrado = False
@@ -60,7 +59,6 @@ def mostrarResumenEmpleados():
             print("NO cumple con el estándar")
 
         elemento += 1
-
 
 while True:
     print("1. Registrar empleados")
