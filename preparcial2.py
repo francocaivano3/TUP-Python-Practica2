@@ -1,4 +1,3 @@
-
 from validarNumeroDocumento import validarNumeroDocumento
 
 listaMedicos = []
@@ -27,7 +26,7 @@ def agregarTitulo():
     
     if documentoEncontrado == False:
         print("El número de documento no ha sido encontrado")
-    
+
 
 def mostrarResumen():
     resumen = sorted(listaMedicos, key= lambda x: len(x["titulosRealizados"]), reverse=True)
@@ -65,3 +64,4 @@ while True:
         break
     else:
         print("Ha seleccionado una opción no válida.")
+
