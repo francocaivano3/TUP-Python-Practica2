@@ -1,4 +1,4 @@
-from validarNumeroDocumento import validarNumeroDocumento
+from ejerciciosClase.validarNumeroDocumento import validarNumeroDocumento
 
 listaMedicos = []
 

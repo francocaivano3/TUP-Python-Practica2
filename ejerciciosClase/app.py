@@ -1,4 +1,4 @@
-from e1Unidad3 import Usuario
+from ejerciciosPropios.ejerciciosClase.e1Unidad3 import Usuario
 from datetime import date 
 
 userName = input("Ingrese el nombre de usuario: ")

@@ -18,7 +18,7 @@
 # Cada cliente registrado es un diccionario que se agrega a la lista de clientes.
 # Codificar la función validar_fidelidad(cliente: dict) -> bool en un módulo aparte. 
 
-from cumpleEstandar import cumpleEstandar 
+from ejerciciosPropios.ejerciciosClase.cumpleEstandar import cumpleEstandar 
 
 listaClientes = []
 

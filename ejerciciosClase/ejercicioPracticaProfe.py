@@ -18,7 +18,7 @@
 # Cada estudiante registrado es un diccionario que se agrega a la lista de estudiantes.
 # Codificar la función validar_promedio_calificaciones(calificaciones: list) -> bool en un módulo aparte.
 
-from validarPromedioCalificaciones import validarPromedioCalificaciones
+from ejerciciosPropios.ejerciciosClase.validarPromedioCalificaciones import validarPromedioCalificaciones
 
 listaEstudiantes = []
 
