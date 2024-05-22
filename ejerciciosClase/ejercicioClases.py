@@ -17,4 +17,4 @@ class Persona:
         def __init__(self, sueldo):
             self.sueldo = sueldo
 
-        
+persona1 = 
